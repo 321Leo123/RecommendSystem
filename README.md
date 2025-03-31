@@ -1,8 +1,4 @@
-# 《推荐系统实践》(项亮等著) —— 代码实现
 
-## 算法原理纯享
-
-博客地址：https://blog.csdn.net/Magical_Bubble/article/details/88371289
 
 ## 数据准备
 
